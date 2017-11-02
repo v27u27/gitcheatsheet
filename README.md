@@ -1,6 +1,7 @@
 Using Git
 ===============
 
+
 Global Settings
 -----------
 
