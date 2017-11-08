@@ -4,6 +4,7 @@ Using Git
 Global Settings
 -----------
 
+
 Related Setup: https://gist.github.com/hofmannsven/6814278
 
 Related Pro Tips: https://ochronus.com/git-tips-from-the-trenches/
